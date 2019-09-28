@@ -10,3 +10,14 @@ while(passos < meta){
 }
 
 console.log (' Parabens! voce atingiu a meta')
+
+/*let passos =0
+const meta =500
+
+for (;passos<meta;)
+passos +=  parseInt(r.question("Informe a quantidade de passos: "));
+}
+
+console.log (' Parabens! voce atingiu a meta')*/
+
+/* 

@@ -16,3 +16,10 @@ do{
 } while(text != 'tchau'); // quando o usuario digitar tchau ele sai
 
 console.log('tchau ' + nome);
+
+
+/* let nome = (r.question('Digite se nome: '));
+console.log ('Olá ' + nome);
+let texto ='';
+
+for ( texto)
